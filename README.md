@@ -1,0 +1,13 @@
+# AppDev on AWS Accelerating Application Development with Managed Services
+
+**Published:** 2023-08-04
+**Medium:** [https://medium.com/@kyle-t-jones/appdev-on-aws-accelerating-application-development-with-managed-services-bd263c30e30f](https://medium.com/@kyle-t-jones/appdev-on-aws-accelerating-application-development-with-managed-services-bd263c30e30f)
+
+## About
+
+Place the code for this article in this repository.
+The original article export is saved as `article.md`.
+
+## Files
+
+Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
