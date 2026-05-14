@@ -23,32 +23,25 @@ Another key benefit of using AWS services for application development is the cos
 ### AWS Services for Application Development
 AWS provides various services and tools that enable developers to build, deploy, and manage applications with ease. AWS offers a comprehensive suite of services that cater to different aspects of application development, including computing, storage, networking, databases, and more.
 
-**AWS Compute Services**
-
+AWS Compute Services
 AWS provides a range of compute services that allow developers to easily run their applications and workloads. Some of the key services include Amazon Elastic Compute Cloud (EC2), AWS Lambda, Amazon Elastic Container Service (ECS), and Amazon Elastic Kubernetes Service (EKS).
 
-**AWS Storage Services**
-
+AWS Storage Services
 AWS offers a variety of storage services that provide scalable and secure storage options for different types of data. Some of the popular storage services include Amazon Simple Storage Service (S3), Amazon Elastic Block Store (EBS), Amazon Elastic File System (EFS), and Amazon Glacier.
 
-**AWS Database Services**
-
+AWS Database Services
 AWS provides managed database services that enable developers to set up, operate, and scale relational and non-relational databases with ease. Some of the popular database services include Amazon Relational Database Service (RDS), Amazon DynamoDB, Amazon ElastiCache, and Amazon Neptune.
 
-**AWS Networking Services**
-
+AWS Networking Services
 AWS provides a range of networking services that enable developers to build secure and scalable networks for their applications. Some of the popular networking services include Amazon Virtual Private Cloud (VPC), AWS Direct Connect, AWS Elastic Load Balancing (ELB), and Amazon Route 53.
 
-**AWS Developer Tools**
-
+AWS Developer Tools
 AWS offers a suite of developer tools that provide end-to-end support for building, testing, and deploying applications. Some of the popular developer tools include AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodeStar.
 
-**AWS Analytics Services**
-
+AWS Analytics Services
 AWS provides analytics services that enable developers to collect, process, and analyze data at scale. Some of the popular analytics services include Amazon Kinesis, Amazon Redshift, Amazon EMR, and Amazon Athena.
 
-**AWS Security Services**
-
+AWS Security Services
 AWS provides a range of security services that help developers to secure their applications and data. Some of the popular security services include AWS Identity and Access Management (IAM), AWS Key Management Service (KMS), AWS Certificate Manager, and AWS WAF.
 
 ### AWS CodeCommit for Version Control
@@ -92,7 +85,7 @@ AWS CodeDeploy supports a wide range of platforms and operating systems, making 
 
 AWS CodeDeploy streamlines the deployment process, allowing developers to release new features and updates to their applications faster and with less downtime. With its ability to handle complex deployments, support for multiple platforms and operating systems, and integration with other AWS services, it is a useful tool for any development team looking to automate their deployment process.
 
-[**AWS DevOps: Streamlining DevOps with AWS CodePipeline and CodeDeploy**\ *Introduction to DevOps on AWS*medium.com](https://medium.com/@kylejones_47003/streamlining-devops-with-aws-codepipeline-and-codedeploy-365e2bc4232c "https://medium.com/@kylejones_47003/streamlining-devops-with-aws-codepipeline-and-codedeploy-365e2bc4232c")[](https://medium.com/@kylejones_47003/streamlining-devops-with-aws-codepipeline-and-codedeploy-365e2bc4232c)
+[AWS DevOps: Streamlining DevOps with AWS CodePipeline and CodeDeploy\ *Introduction to DevOps on AWS*medium.com](https://medium.com/@kylejones_47003/streamlining-devops-with-aws-codepipeline-and-codedeploy-365e2bc4232c "https://medium.com/@kylejones_47003/streamlining-devops-with-aws-codepipeline-and-codedeploy-365e2bc4232c")[](https://medium.com/@kylejones_47003/streamlining-devops-with-aws-codepipeline-and-codedeploy-365e2bc4232c)
 ### AWS CodePipeline for Continuous Delivery
 AWS CodePipeline is a fully-managed continuous delivery service that helps organizations automate their software release process. It enables building, testing, and deploying applications to any infrastructure, such as AWS services, third-party services, and on-premises servers. With CodePipeline, teams can define a series of stages for their application deployment process, including source control, build, test, and deployment. The service then automates the steps in each stage, enabling teams to release new features and updates quickly and efficiently.
 
@@ -121,7 +114,7 @@ In terms of pricing, Elastic Beanstalk follows a pay-as-you-go model, where user
 
 AWS Elastic Beanstalk provides a simple, scalable, and cost-effective way to deploy and manage web applications. Its ease of use and compatibility with popular DevOps tools make it a popular choice among developers looking to accelerate their application development process.
 
-[**Using AWS Elastic Beanstalk for Rapid Application Deployment**\ *Introduction to AWS Elastic Beanstalk*medium.com](https://medium.com/@kylejones_47003/using-aws-elastic-beanstalk-for-rapid-application-deployment-25f6f1dc76da "https://medium.com/@kylejones_47003/using-aws-elastic-beanstalk-for-rapid-application-deployment-25f6f1dc76da")[](https://medium.com/@kylejones_47003/using-aws-elastic-beanstalk-for-rapid-application-deployment-25f6f1dc76da)
+[Using AWS Elastic Beanstalk for Rapid Application Deployment\ *Introduction to AWS Elastic Beanstalk*medium.com](https://medium.com/@kylejones_47003/using-aws-elastic-beanstalk-for-rapid-application-deployment-25f6f1dc76da "https://medium.com/@kylejones_47003/using-aws-elastic-beanstalk-for-rapid-application-deployment-25f6f1dc76da")[](https://medium.com/@kylejones_47003/using-aws-elastic-beanstalk-for-rapid-application-deployment-25f6f1dc76da)
 ### Related Stories
 - [[Building a serverless architecture on AWS](https://medium.com/towards-aws/building-a-serverless-architecture-on-aws-1784e6381512)]
 - [[Building Scalable Applications in AWS](https://medium.com/towards-aws/building-scalable-applications-in-aws-89550c514925)]
